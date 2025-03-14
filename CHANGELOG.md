@@ -1,3 +1,7 @@
+## Release (2025-XX-XX)
+- `modelserving`: [v0.2.0](services/modelserving/CHANGELOG.md#v020-2025-03-14)
+  - **New**: STACKIT Model Serving module wait handler added.
+
 ## Release (2025-03-05)
 
 - `core`: [v0.16.1](core/CHANGELOG.md#v0161-2025-02-25)
